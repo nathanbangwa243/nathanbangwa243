@@ -21,7 +21,7 @@ I find purpose in telling the story of Jesus at [@GoFamille](https://github.com/
 
 Today, I devote my technical genius to any project that can help humanity, in particular the development of artificial intelligence in the fields of health and education.
 
-At the moment I'm working on [@GoBackend](https://github.com/GoBanckend), a tool to automate the creation and deployment of RESTFul Web APIs with Python and OpenAI Codex, which will be the backend engine for a community platform and others.
+At the moment I'm working on [@GoBackend](https://github.com/GoBackend), a tool to automate the creation and deployment of RESTFul Web APIs with Python and Google Gemini, which will be the backend engine for a community platform and others.
 
 ### Connect with Me
 
