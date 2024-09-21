@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi 👋😀
 
 <!--
 **nathanbangwa243/nathanbangwa243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +23,7 @@ Today, I devote my technical genius to any project that can help humanity, in pa
 
 At the moment I'm working on [@GoBackend](https://github.com/GoBackend), a tool to automate the creation and deployment of RESTFul Web APIs with Python and Google Gemini, which will be the backend engine for a community platform and others. -->
 
-😀 Embarking on a dynamic journey from applied electronics to software engineering, my career is driven by a deep curiosity and passion for solving complex problems.
+Embarking on a dynamic journey from applied electronics to software engineering, my career is driven by a deep curiosity and passion for solving complex problems.
 
 I find purpose in telling the story of Jesus, and I extend that love to everything I do. Helping young people discover their life mission and harness their talents is a rewarding adventure.
 
