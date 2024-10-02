@@ -36,4 +36,5 @@ Currently, I'm developing [@GoBackend](https://github.com/GoBackend), a tool to 
 - LinkedIn : [nathanbangwa243](https://www.linkedin.com/in/nathanbangwa243/)
 - UpWork : [nathanbangwa243](https://www.upwork.com/freelancers/~010b5001634e5219bd)
 
+- My Profil (PDF) : [nathanbangwa243-Profil](docs/Nathan-Bangwa-Profil-CV-021024.pdf)
 - 📫 You can reach me at nathanbangwa243@gmail.com
