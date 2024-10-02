@@ -1,7 +1,11 @@
+import shutil
 from datetime import datetime
+
 from PyPDF2 import PdfMerger
 
-OUT_PUT_PROFILE_FILE = 'docs/Nathan-Bangwa-Profile-CV'
+
+OUTPUT_NAME = 'docs/Nathan-Bangwa-Profile-CV'
+OUTPUT_PROFILE_FILE = f"{OUTPUT_NAME}.pdf"
 
 PROFIL_CERTIF_FILES = [
     'docs/profile.pdf',
@@ -11,6 +15,7 @@ PROFIL_CERTIF_FILES = [
 
 # Get today's date and format it
 today_str = datetime.today().strftime('%d%m%y')
+LATEST_OUTPUT_PROFILE_FILE = f"{OUTPUT_NAME}-{today_str}.pdf"
 
 # open pdf merger
 merger = PdfMerger()
@@ -19,8 +24,10 @@ for certif in PROFIL_CERTIF_FILES:
     merger.append(certif)
 
 # write pdf merger content
-merger.write(f"{OUT_PUT_PROFILE_FILE}.pdf")
-merger.write(f"{OUT_PUT_PROFILE_FILE}-{today_str}.pdf")
+merger.write(OUTPUT_PROFILE_FILE)
 
 # close pdf merger
 merger.close()
+
+# Copy the file
+shutil.copy(OUTPUT_PROFILE_FILE, LATEST_OUTPUT_PROFILE_FILE)
