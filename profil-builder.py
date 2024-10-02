@@ -5,8 +5,8 @@ OUT_PUT_PROFILE_FILE = 'docs/Nathan-Bangwa-Profile-CV'
 
 PROFIL_CERTIF_FILES = [
     'docs/profile.pdf',
-    'docs/ai-programming-with-python.pdf',
     'docs/aws-machine-learning-fundamentals.pdf',
+    'docs/ai-programming-with-python.pdf',
 ]
 
 # Get today's date and format it
