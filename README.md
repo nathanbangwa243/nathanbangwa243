@@ -7,7 +7,9 @@ As a contributor to the Generosity Network (G-Net), I help bridge the digital di
 Guided by the principle "Safety is Morality by Design," I focus on:
 
 • Simplifying Complexity: Turning abstract ideas into robust systems.
+
 • Ethical Innovation: Leveraging tech as a tool for social progress.
+
 • Community Leadership: Fostering environments for shared knowledge.
 
 Let’s connect to turn your vision into a reality that serves the greater good
