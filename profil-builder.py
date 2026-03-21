@@ -9,19 +9,10 @@ OUTPUT_PROFILE_FILE = f"{OUTPUT_NAME}.pdf"
 
 PROFIL_CERTIF_FILES = [
     'docs/profile.pdf',
-    'docs/java-OOP.pdf',
     'docs/aws-machine-learning-fundamentals.pdf',
     'docs/ai-programming-with-python.pdf',
+    'docs/java-OOP.pdf',
 ]
-
-# Christ Profil
-
-# OUTPUT_NAME = 'docs/DOSSIER-MULEKA-LUBABA-CV'
-
-# PROFIL_CERTIF_FILES = [
-#     'C:\\Users\\nathanbangwa243\\Documents\\Personal\\Family\\CV-CHRISTELLE-MULEKA-LUBABA.pdf',
-#     'C:\\Users\\nathanbangwa243\\Documents\\Personal\\Family\\DOSSIER-MULEKA-LUBABA-CHRISTELLE.pdf'
-# ]
 
 # Get today's date and format it
 today_str = datetime.today().strftime('%d%m%y')
@@ -31,6 +22,7 @@ LATEST_OUTPUT_PROFILE_FILE = f"{OUTPUT_NAME}-{today_str}.pdf"
 merger = PdfMerger()
 
 for certif in PROFIL_CERTIF_FILES:
+    print(certif)
     merger.append(certif)
 
 # write pdf merger content
@@ -41,3 +33,4 @@ merger.close()
 
 # Copy the file
 shutil.copy(OUTPUT_PROFILE_FILE, LATEST_OUTPUT_PROFILE_FILE)
+

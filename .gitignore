@@ -1,1 +1,4 @@
 venv/
+
+# exclude cmd traceback files
+*.DS_Store
