@@ -4,11 +4,12 @@ from datetime import datetime
 from PyPDF2 import PdfMerger
 
 
-OUTPUT_NAME = 'docs/Nathan-Bangwa-Profile-CV'
+OUTPUT_NAME = 'docs/Nathan-Ilunga-Lubaba-Bangwa-Profile-CV'
 OUTPUT_PROFILE_FILE = f"{OUTPUT_NAME}.pdf"
 
 PROFIL_CERTIF_FILES = [
     'docs/profile.pdf',
+    'docs/aws-ai-practitioner-challenge.pdf',
     'docs/aws-machine-learning-fundamentals.pdf',
     'docs/ai-programming-with-python.pdf',
     'docs/java-OOP.pdf',

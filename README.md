@@ -19,5 +19,5 @@ Let’s connect to turn your vision into a reality that serves the greater good
 - LinkedIn : [nathanbangwa243](https://www.linkedin.com/in/nathanbangwa243/)
 - UpWork : [nathanbangwa243](https://www.upwork.com/freelancers/~010b5001634e5219bd)
 
-- My Profile (PDF) : [nathanbangwa243 (Profile)](docs/Nathan-Bangwa-Profile-CV.pdf)
+- My Profile (PDF) : [nathanbangwa243 (Profile)](docs/Nathan-Ilunga-Lubaba-Bangwa-Profile-CV.pdf)
 - 📫 You can reach me at nathanbangwa243@gmail.com
