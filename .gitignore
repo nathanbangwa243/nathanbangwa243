@@ -1,4 +1,7 @@
 venv/
 
+# private documents (local only)
+.private/
+
 # exclude cmd traceback files
 *.DS_Store
