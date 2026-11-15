@@ -1,0 +1,14 @@
+{
+  "output": {
+    "name": "docs/Nathan-Ilunga-Lubaba-Bangwa-Profile-CV",
+    "datedCopy": true,
+    "dateFormat": "%d%m%y"
+  },
+  "documents": [
+    { "path": "docs/profile.pdf" },
+    { "path": "docs/aws-ai-practitioner-challenge.pdf" },
+    { "path": "docs/aws-machine-learning-fundamentals.pdf" },
+    { "path": "docs/ai-programming-with-python.pdf" },
+    { "path": "docs/Java-OOP.pdf" }
+  ]
+}
