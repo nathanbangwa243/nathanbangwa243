@@ -2,3 +2,6 @@ venv/
 
 # exclude cmd traceback files
 *.DS_Store
+
+# Don't upload private files
+.private
